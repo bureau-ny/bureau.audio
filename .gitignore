@@ -10,3 +10,7 @@ package-lock.json
 
 # Ignore script tag add script
 scripttagadd.js
+
+# Ignore all mp3 and m4a files
+*.mp3
+*.m4a
