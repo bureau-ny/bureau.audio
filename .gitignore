@@ -1,0 +1,12 @@
+# Ignore Node.js modules
+/node_modules
+
+# Ignore Cloudinary upload script
+cloudinaryupload.js
+
+# Ignore package.json and package-lock.json
+package.json
+package-lock.json
+
+# Ignore script tag add script
+scripttagadd.js
